@@ -226,6 +226,7 @@ section{
 .navbar {
     padding: 0px 0px 2px 0px;
     margin: 0px!important;
+	width: 1200px;
 }
 .navbar-brand {
     display: inline-block;
